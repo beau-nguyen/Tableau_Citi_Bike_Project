@@ -18,7 +18,10 @@ As a new Data Analyst for the New Jersey Citi Bike Program, I am now responsible
 
 	* City Bike Dashboard
 
- https://public.tableau.com/profile/beau.nguyen#!/
+* My Tableau Link https://public.tableau.com/profile/beau.nguyen#!/
+
+![]( https://github.com/beau-nguyen/Tableau_Citi_Bike_Project/blob/master/Images/citi-bike-station-bikes.jpg)
+
 
 
 
